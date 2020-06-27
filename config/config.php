@@ -1,12 +1,13 @@
 <?php
 
-define('URL', 'http://54.209.96.130/sivemp/');
+
+define('URL', 'http://localhost/sivemp/');
 define('ROOT', $_SERVER['DOCUMENT_ROOT'].'/sivemp/');
 
-define('HOST', '54.209.96.130');
+define('HOST', 'localhost');
 define('DB', 'sivemp');
-define('USER', 'admin');
-define('PASSWORD', "edysonleal10");
+define('USER', 'root');
+define('PASSWORD', "");
 define('CHARSET', 'utf8mb4');
 
 ?>
